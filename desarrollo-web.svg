@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<rect width="800" height="420" fill="#eef5ff"/>
+<rect x="95" y="55" width="610" height="310" rx="18" fill="#ffffff" stroke="#1e3a5f" stroke-width="8"/>
+<path d="M95 100 H705" stroke="#1e3a5f" stroke-width="8"/>
+<circle cx="125" cy="78" r="8" fill="#e76f51"/><circle cx="153" cy="78" r="8" fill="#e9c46a"/><circle cx="181" cy="78" r="8" fill="#2a9d8f"/>
+<text x="400" y="160" font-family="Arial, sans-serif" font-size="30" text-anchor="middle" fill="#1e3a5f">DESARROLLO WEB</text>
+<rect x="150" y="190" width="220" height="115" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+<text x="260" y="238" font-family="monospace" font-size="28" text-anchor="middle" fill="#1d4ed8">&lt;html&gt;</text>
+<text x="260" y="273" font-family="monospace" font-size="22" text-anchor="middle" fill="#1d4ed8">&lt;/html&gt;</text>
+<rect x="410" y="190" width="240" height="28" rx="5" fill="#cbd5e1"/>
+<rect x="410" y="235" width="190" height="15" rx="5" fill="#94a3b8"/>
+<rect x="410" y="263" width="215" height="15" rx="5" fill="#94a3b8"/>
+<rect x="410" y="291" width="150" height="15" rx="5" fill="#94a3b8"/>
+</svg>
